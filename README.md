@@ -21,6 +21,8 @@ Hey, I'm Dmitry, Technical Product Manager. Falling in love with tech. Сan conv
 
 Join my Telegram chanel - [@johenews](https://t.me/johenews)
 
+My LinkedIn - https://www.linkedin.com/in/devpew/
+
 ## 😄 About me 
 
 ✌️ My name is Dmitry, I am Technical Product Manager. Geek and a lover of everything related to technology. Have a degree in information security.
