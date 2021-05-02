@@ -53,3 +53,6 @@ I have experience in fintech, have a pet project in this area.
   </a>
 </span>
 
+- 💬 You can ask me anything you want on Telegram - [@devpew](https://t.me/devpew);
+- 📫 Or Twitter [@devpew](https://twitter.com/devpew);
+- 📝 [Resume](https://devpew.com/cv)
