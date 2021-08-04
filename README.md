@@ -27,11 +27,9 @@ My LinkedIn - https://www.linkedin.com/in/devpew/
 
 ✌️ My name is Dmitry, I am Technical Product Manager. Geek and a lover of everything related to technology. Have a degree in information security.
 
-Have been working in IT from 2007. Always want to try out different technologies.
+Right now I'm working in Paxful on Lightning bitcoin network and Staking for ETH 2.0
 
-I have experience in fintech, have a pet project in this area. 
-
-🔥 I’m currently working on my finance application where i can keep track of your income and expenses, as well as have complete statistics on your investments. And also the application recommends me what assets I should buy and in what proportion to keep stocks and bonds in the portfolio at the moment.
+🔥 I’m currently working on my finance application, there you can track your income and expenses, as well as have complete statistics on your investments. And also the application recommends which assets you should buy and recommend proportion for stocks and bonds in the portfolio at the moment.
 
 🎥 Also I write articles on my blog and Telegram channel, and making videos on my YouTube channel
 
