@@ -45,8 +45,8 @@ Right now I'm working in Paxful on Lightning bitcoin network and Staking for ETH
   </a>
 </span>
 <span>  
-  <a href="https://youtu.be/o7h1-6U1u1g">
-    <img src="https://img.youtube.com/vi/o7h1-6U1u1g/0.jpg" alt="Raspberry Pi лучшие проекты" height="225px">
+  <a href="https://youtu.be/uSUc18yF8vk">
+    <img src="https://img.youtube.com/vi/uSUc18yF8vk/0.jpg" alt="Лучшие книги для айтишника" height="225px">
   </a>
 </span>
 <span>  
