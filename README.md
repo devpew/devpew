@@ -59,5 +59,3 @@ Before that I worked at Paxful on Lightning bitcoin network and Staking for ETH 
 </span>
 
 - 💬 You can ask me anything you want on Telegram - [@devpew](https://t.me/devpew);
-- 📫 Or Twitter [@devpew](https://twitter.com/devpew);
-- 📝 [Resume](https://devpew.com/cv)
