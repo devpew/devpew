@@ -20,7 +20,7 @@ Hey, I'm Dmitry, Technical Product Manager. Falling in love with tech. Сan conv
 ❤️: Golang, React, React Native, Javascript, C++, Rust, Swift
 
 Join my Telegram chanel - [@johenews](https://t.me/johenews)
-Also, I post a lot of about keyboards - [@ergosplits.ru](https://ergosplits.ru)
+Also, I made split keyboard - [ergosplits](https://ergosplits.ru)
 
 ## 😄 About me 
 
