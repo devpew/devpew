@@ -1,4 +1,4 @@
-### Hi there 👋 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=devpew) 
+### Hi there 👋 ![Visitors](https://api.count.get/space/devpew?label=Visitors&color=blue)
 
 <!--
 **devpew/devpew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
