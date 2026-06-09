@@ -5,9 +5,13 @@ Hey, I'm Dmitry, Technical Product Manager. Falling in love with tech. Сan conv
 ❤️: Golang, React, React Native, Javascript, C++, Rust, Swift
 
 Join my Telegram chanel - [@johenews](https://t.me/johenews)
+
 Also, I made split keyboard - [ergosplits](https://ergosplits.ru)
+
 Chat about keyboards - [ergokeyboards](https://t.me/ergokeyboards)
+
 Chat about homelab, LLM, devops - [homelabru](https://t.me/homelabru)
+
 blog - [devpew](https://devpew.com/)
 
 ## 😄 About me 
